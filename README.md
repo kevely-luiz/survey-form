@@ -3,4 +3,8 @@ Um formulário criado a partir de User Stories da formação de Design Responsiv
 
 ***
 
-Você pode acessar por esse <a href="https://codepen.io/kevely-luiz/pen/NWaEMvX">link</a> do CodePen.
+Você pode acessar por esse <a href="https://codepen.io/kevely-luiz/full/NWaEMvX">link</a> do CodePen.
+
+Segue uma prévia do projeto:
+
+<img src="https://i.imgur.com/wLWYCQY.png">
